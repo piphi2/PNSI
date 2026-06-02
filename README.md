@@ -18,4 +18,10 @@ En fait, je voudrais pouvoir mettre des md à disposition facilement comme ce li
 Mais sur Github pour une gestion des ajouts/suppressions plus simple.
 
 
+Lien vers un dossier public sur Nuage :  
+[https://nuage03.apps.education.fr/index.php/s/XFi5WMBPMmAKwtQ](https://nuage03.apps.education.fr/index.php/s/XFi5WMBPMmAKwtQ)
+
+Ou lien vers un fichier précis dans Nuage :  
+[https://nuage03.apps.education.fr/index.php/s/pKNxqKKbxX2cYKM?dir=/&editing=false&openfile=true](https://nuage03.apps.education.fr/index.php/s/pKNxqKKbxX2cYKM?dir=/&editing=false&openfile=true)
+
 
