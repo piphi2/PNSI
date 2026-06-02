@@ -12,12 +12,10 @@ Ceci est un lien vers un autre fichier md à la racine du repo :
 -> je voudrais qu'il s'affiche comme le readme.md (=comme une page HTML) et ne donne pas accès au contenu du repo.  
 Je ne sais pas ce qu'il faut faire ou si c'est possible ...
 
-
-Ceci est un lien vers un sous-dossier du repo :  
-[Représentation des données (binaire, ...)](https://github.com/piphi2/nsi1/tree/main/Repr%C3%A9sentation%20des%20donn%C3%A9es)  
-
-
-Ceci est un lien vers un md extérieur sur codimd :  
+En fait, je voudrais pouvoir mettre des md à disposition facilement comme ce lien vers un md extérieur sur codimd :  
 [Lien vers le codimd HlmDFofLTxiW-UBWCFAjjQ](https://codimd.apps.education.fr/HlmDFofLTxiW-UBWCFAjjQ)  
+
+Mais sur Github pour une gestion des ajouts/suppressions plus simple.
+
 
 
