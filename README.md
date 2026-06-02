@@ -8,6 +8,10 @@ Il est accessible à l'adresse :
 Ceci est un lien vers un sous-dossier du repo :  
 [Représentation des données (binaire, ...)](https://github.com/piphi2/nsi1/tree/main/Repr%C3%A9sentation%20des%20donn%C3%A9es)  
 
+Ceci est un lien vers un md à la racine du repo :
+[http://github.com/piphi2/PNSI/blob/main/types_conversions_python.md](http://github.com/piphi2/PNSI/blob/main/types_conversions_python.md)
+>> je voudrais qu'il s'affiche comme le readme.md (ou le index.md)
+
 Ceci est un lien vers un md extérieur sur codimd :  
 [Lien vers le codimd HlmDFofLTxiW-UBWCFAjjQ](https://codimd.apps.education.fr/HlmDFofLTxiW-UBWCFAjjQ)  
 
